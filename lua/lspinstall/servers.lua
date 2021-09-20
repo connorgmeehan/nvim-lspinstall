@@ -36,6 +36,7 @@ local servers = {
   ["typescript"] = require'lspinstall/servers/typescript',
   ["vim"] = require'lspinstall/servers/vim',
   ["vue"] = require'lspinstall/servers/vue',
+  ["volar"] = require'lspinstall/servers/volar',
   ["yaml"] = require'lspinstall/servers/yaml',
 }
 
